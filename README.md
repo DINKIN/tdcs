@@ -10,7 +10,7 @@ you're familiar with the gschem and pcb UI feel free to clone the repo
 in github with the [fork button](https://github.com/nocko/tdcs/fork)
 or clone the repo using the CLI:
 
-    git clone https://github.com/nocko/tdcs
+    git clone https://github.com/boinger/tdcs
 
 Interesting Files in the Repo
 -----------------------------
@@ -53,7 +53,7 @@ Interesting Files in the Repo
 
 	Zipfile ready for upload to [OSHPark](http://oshpark.com/) .
 
-* bom.txt:
+* bom.csv:
 
 	Bill of Materials, the components you need to buy to populate
 	the board. Auto generated via gnetlist from the schematic.
